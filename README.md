@@ -1,1 +1,1 @@
-# COMP2006GroupAssign
+This program simulates a lottery game where users can buy up to 5 lines of tickets, each costing $5. The user can choose to add a $1 “Encore” option for an additional chance to win. For each game, the program generates random unique numbers for the user's ticket lines and displays them, including bonus lines. It then generates a set of winning numbers, checks if any of the user's lines match these winning numbers, and announces any wins of $1000. The ticket details are saved to a file with a timestamp, and the user has the option to play again.
